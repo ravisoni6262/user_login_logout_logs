@@ -1,0 +1,42 @@
+# Copyright (C) 2019 Automattic
+# This file is distributed under the same license as the http://www.gnu.org/licenses/gpl-2.0.html.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Keep log of user login and logout1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2020-04-20 12:00:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator:Keep log of user login and logout\n"
+
+#: user_login_logout_logs.php:46-47
+msgid "Audit Log Viewer"
+msgstr ""
+
+#: user_login_logout_logs.php:97
+msgid "Set Log file path"
+msgstr ""
+
+#: user_login_logout_logs.php:99
+msgid "Directory name (Must end with /)"
+msgstr ""
+
+#: user_login_logout_logs.php:104
+msgid "Submit"
+msgstr ""
+
+#: user_login_logout_logs.php: 72
+msgid "File directory not found."
+msgstr ""
+
+#: user_login_logout_logs.php:104
+msgid "Submit"
+msgstr ""
+
+#: user_login_logout_logs.php:104
+msgid "Submit"
+msgstr ""

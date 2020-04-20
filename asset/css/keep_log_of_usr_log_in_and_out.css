@@ -1,0 +1,16 @@
+.select-file-path-form{
+	margin-top:100px;
+	text-align: left;
+}
+.select-file-path-form form {
+	background: #fff;
+	width: 50%;
+	padding: 15px;
+	padding-left: 10px; 
+}
+.select-file-path-form .user-file_name{
+	width: 100%;
+}
+.keep-log-download-option{
+	margin-top: 50px;
+}
